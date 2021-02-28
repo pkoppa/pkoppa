@@ -1,4 +1,4 @@
-## I’m currently working on ... Will update soon! 👋
+## Hello 👋
 
 <!--
 **pkoppa/pkoppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
